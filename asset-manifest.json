@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjstaskappmaterialui/static/css/main.3e558945.chunk.css",
+    "main.js": "/reactjstaskappmaterialui/static/js/main.a57b95e8.chunk.js",
+    "main.js.map": "/reactjstaskappmaterialui/static/js/main.a57b95e8.chunk.js.map",
+    "runtime-main.js": "/reactjstaskappmaterialui/static/js/runtime-main.4c7b7c46.js",
+    "runtime-main.js.map": "/reactjstaskappmaterialui/static/js/runtime-main.4c7b7c46.js.map",
+    "static/js/2.dcdba8fe.chunk.js": "/reactjstaskappmaterialui/static/js/2.dcdba8fe.chunk.js",
+    "static/js/2.dcdba8fe.chunk.js.map": "/reactjstaskappmaterialui/static/js/2.dcdba8fe.chunk.js.map",
+    "index.html": "/reactjstaskappmaterialui/index.html",
+    "static/css/main.3e558945.chunk.css.map": "/reactjstaskappmaterialui/static/css/main.3e558945.chunk.css.map",
+    "static/js/2.dcdba8fe.chunk.js.LICENSE.txt": "/reactjstaskappmaterialui/static/js/2.dcdba8fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c7b7c46.js",
+    "static/js/2.dcdba8fe.chunk.js",
+    "static/css/main.3e558945.chunk.css",
+    "static/js/main.a57b95e8.chunk.js"
+  ]
+}
